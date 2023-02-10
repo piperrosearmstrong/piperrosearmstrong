@@ -36,10 +36,12 @@ I would love to work in a team that shares my goal of contributing to a world th
 | ---------------------------- | ----------------- | ----------------- |
 | **[Rat Race](https://github.com/Ollie-HB/rat-race)**                 | A fun, rat-themed variation of 'Snakes and Ladders'. [Play it here!](https://rat-race-boardgame.netlify.app/) | JavaScript, React, HTML, CSS, SweetAlert2 |
 | **[Bank Tech Test](https://github.com/piperrosearmstrong/bank-tech-test)** | Exercise to practise clean code and TDD. A simple bank program that allows the user to check their balance, withdraw and deposit money. | JavaScript, Node, Jest |
-| **Piper-Rose Armstrong**         | A personal website. | Ruby              |
-| **Garmery**                  | A digital wardrobe. | Ruby              |
+| **Piper-Rose Armstrong**         | My personal website. | x            |
+| **Garmery**                  | A digital wardrobe and styling tool. | x              |
 
 ## ♛ Skills ♛
+
+Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communication · Emotional Intelligence · Public Speaking · Practical Learning · Empathy · Team-Player · Premiere Pro · Google Docs Editors · Leadership
 
 #### Creative
 
