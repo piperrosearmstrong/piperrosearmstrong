@@ -64,10 +64,15 @@ I liaised with my class team to develop behaviour management strategies for pupi
 **Makers Academy** Aug '22 to Dec '22    
 Highly discerning 12 weeks intensive dev bootcamp.    
 
-- OOP, TDD
+- Object-Oriented Programming
+- Test-Driven Development
 - Agile
-- Ruby, JavaScript
-- RSpec
+- Debugging
+- Agile Structure
+- Learning Languages
+- Databases
+- Debugging
+- Team-Engineering
 
 **The Belgian Monk** Aug '22 to present    
 Front of House
