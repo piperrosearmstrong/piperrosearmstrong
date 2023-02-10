@@ -41,7 +41,7 @@ I would love to work in a team that shares my goal of contributing to a world th
 
 ## ♛ Skills ♛
 
-Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communication · Emotional Intelligence · Public Speaking · Practical Learning · Empathy · Team-Player · Premiere Pro · Google Docs Editors · Leadership
+Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communication · Emotional Intelligence · Public Speaking · Practical Learning · Empathy · Team-Player · Premiere Pro · Google Docs Editors · Leadership · Problem-Solving · Adaptability · Independent
 
 #### Creative
 
@@ -70,15 +70,12 @@ Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communicat
 ## ✥ Experience ✥
 
 **Makers Academy** Aug '22 to Dec '22    
-Highly discerning 12 weeks intensive dev bootcamp. 
+Highly discerning 12 weeks intensive dev bootcamp.    
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD
+- Agile
+- Ruby, JavaScript
+- RSpec
 
 **The Belgian Monk** Aug '22 to present    
 Front of House
