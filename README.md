@@ -43,29 +43,21 @@ I would love to work in a team that shares my goal of contributing to a world th
 
 Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communication · Emotional Intelligence · Public Speaking · Practical Learning · Empathy · Team-Player · Premiere Pro · Google Docs Editors · Leadership · Problem-Solving · Adaptability · Independent
 
-#### Creative
+#### · Creative ·
 
-- Experience
-- Achievements
-- Evidence (STAR)
+During my time as a teaching assistant, supported classes in the Arts department, created presentations for my departmental seniors to deliver in meetings and planned lessons for a variety of subjects. Some of these were lessons where I covered for teachers who were off sick and unable to provide work. I also taught our high-achieving students how to write essays.
 
-#### Communication
+#### · Communication ·
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I delivered differentiated lessons to a broad spectrum of pupils with additional needs. Pupils’ parents contacted the school to inform me that their children enjoyed my lessons as I fulfilled their needs.
 
-#### Practical Learning
+#### · Practical Learning ·
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I started my TA career as a volunteer and learned most of my skills through research and direct application. For my EPQ, I taught myself how to develop stories, sew, direct, co-ordinate a crew, edit and score films with an A* result.
 
-#### Team-Player
+#### · Problem-Solving ·
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I liaised with my class team to develop behaviour management strategies for pupils.
 
 ## ✥ Experience ✥
 
