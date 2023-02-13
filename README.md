@@ -62,7 +62,7 @@ I liaised with my class team to develop behaviour management strategies for pupi
 ## ✥ Experience ✥
 
 **Makers Academy** Aug '22 to Dec '22    
-Highly discerning 12 weeks intensive dev bootcamp.    
+Highly discerning, 12-week intensive dev bootcamp.    
 
 - Object-Oriented Programming
 - Test-Driven Development
@@ -75,7 +75,7 @@ Highly discerning 12 weeks intensive dev bootcamp.
 - Team-Engineering
 
 **The Belgian Monk** Aug '22 to present    
-Front of House
+Front of House Staff
 
 - Recieving and confirming reservations
 - Directing early arrivals to the bar 
