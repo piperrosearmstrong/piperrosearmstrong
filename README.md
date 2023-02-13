@@ -45,19 +45,19 @@ Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communicat
 
 #### · Creative ·
 
-During my time as a teaching assistant, supported classes in the Arts department, created presentations for my departmental seniors to deliver in meetings and planned lessons for a variety of subjects. Some of these were lessons where I covered for teachers who were off sick and unable to provide work. I also taught our high-achieving students how to write essays.
+During my time as a teaching assistant, supported classes in the Arts department, created presentations for my departmental seniors to deliver in meetings and planned lessons for a variety of subjects. Some of these were lessons where I covered for teachers who were off sick and unable to provide work. I also taught our high-achieving students how to write essays. I made a 40-minute long film about giant lobsters. I created the rat theme of our final project.
 
 #### · Communication ·
 
-I delivered differentiated lessons to a broad spectrum of pupils with additional needs. Pupils’ parents contacted the school to inform me that their children enjoyed my lessons as I fulfilled their needs.
+I delivered differentiated lessons to a broad spectrum of pupils with additional needs. Pupils’ parents contacted the school to inform me that their children enjoyed my lessons as I fulfilled their needs. I did group projects at Makers. I work in a team at a busy city-centre pub where our service relies on dynamic communication. 
 
 #### · Practical Learning ·
 
-I started my TA career as a volunteer and learned most of my skills through research and direct application. For my EPQ, I taught myself how to develop stories, sew, direct, co-ordinate a crew, edit and score films with an A* result.
+I started my TA career as a volunteer and learned most of my skills through research and direct application. For my EPQ, I taught myself how to develop stories, sew, direct, co-ordinate a crew, edit and score films with an A* result. I learnt multiple coding languages through applied challenges at Makers. I learnt how to waitress and bar-tend whilst on the job. 
 
 #### · Problem-Solving ·
 
-I liaised with my class team to develop behaviour management strategies for pupils.
+I liaised with my class team to develop behaviour management strategies for pupils. Whilst at Makers, I used the agile structure to break down my brief into user stories so that I could create a result using methods/techniques that I'd never used before.
 
 ## ✥ Experience ✥
 
