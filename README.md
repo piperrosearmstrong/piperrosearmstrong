@@ -4,7 +4,7 @@ piperrosearmstrong@gmail.com ┈┈•༶
 
 [GitHub](https://github.com/piperrosearmstrong) | [LinkedIn](https://www.linkedin.com/in/piper-rose-armstrong-a20447265/) | [Codewars](https://www.codewars.com/users/piperrosearmstrong) ┈┈•༶
 
-[Tech Stack](https://github.com/piperrosearmstrong/CV#tech-stack-%E0%AD%A8%E0%AD%A7) | [Projects](https://github.com/piperrosearmstrong/CV#projects-) | [Skills](https://github.com/piperrosearmstrong/CV#skills-) | [Experience](https://github.com/piperrosearmstrong/CV#experience-) | [Hobbies](https://github.com/piperrosearmstrong/CV#hobbies-) ┈┈•༶
+[Tech Stack](https://github.com/piperrosearmstrong#tech-stack-%E0%AD%A8%E0%AD%A7) | [Projects](https://github.com/piperrosearmstrong/piperrosearmstrong#projects-) | [Skills](https://github.com/piperrosearmstrong/piperrosearmstrong#skills-) | [Experience](https://github.com/piperrosearmstrong/piperrosearmstrong#experience-) | [Hobbies](https://github.com/piperrosearmstrong/piperrosearmstrong#hobbies-) ┈┈•༶
 
 A dynamic, creative and curious **Full Stack Software Engineer**. 
 
