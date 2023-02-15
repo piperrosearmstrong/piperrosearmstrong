@@ -112,8 +112,10 @@ A-Levels
 
 ## HOBBIES ⤠
 
-- **Sewing/Fashion**
-- **Song-Writing**
-- **Books**
-- **Dancing**
+- **Sewing/Fashion** _I make my own clothes, collect vintage clothes, follow high fashion, consciously engage with the way I dress._
+- **Song-Writing** _I am almost finished writing a 13 song album. I aim to produce it and perform it live this year._
+- **Books** _I read every evening before going to bed. I keep a journal._
+- **Dancing** _Reached X grades in Ballet, Tap, Modern, Jazz and Musical Theatre._
+- **Aesthetic Curation** _I make collages, take lots of photos and collect beautiful things._
+- **Living without Social Media**
 
