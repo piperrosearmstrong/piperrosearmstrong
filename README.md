@@ -75,7 +75,7 @@ Highly discerning, 16-week intensive dev bootcamp.
 **The Belgian Monk** Aug '22 to present    
 Front of House Staff
 
-- Recieving and confirming reservations
+- Receiving and confirming reservations
 - Directing early arrivals to the bar
 - Ushering diners to their tables and providing them with menus
 - Accepting and informing the relevant staff about food and beverage requests
