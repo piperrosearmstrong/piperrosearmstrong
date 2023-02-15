@@ -1,16 +1,24 @@
-# Piper-Rose Armstrong #
-
-piperrosearmstrong@gmail.com ┈┈•༶
-
-[GitHub](https://github.com/piperrosearmstrong) | [LinkedIn](https://www.linkedin.com/in/piper-rose-armstrong-a20447265/) | [Codewars](https://www.codewars.com/users/piperrosearmstrong) ┈┈•༶
-
-[Tech Stack](https://github.com/piperrosearmstrong#tech-stack-%E0%AD%A8%E0%AD%A7) | [Projects](https://github.com/piperrosearmstrong/piperrosearmstrong#projects-) | [Skills](https://github.com/piperrosearmstrong/piperrosearmstrong#skills-) | [Experience](https://github.com/piperrosearmstrong/piperrosearmstrong#experience-) | [Hobbies](https://github.com/piperrosearmstrong/piperrosearmstrong#hobbies-) ┈┈•༶
+# Piper-Rose Armstrong ❀✿＊ #
 
 A dynamic, creative and curious **Full Stack Software Engineer**. 
 
 Before learning to code at Makers Academy, I was a teaching assistant in special needs education. I became attracted to software development as an inventive medium that can be used across various industries including fashion, education and aerospace. Furthermore, I enjoy working in forward-thinking industries where I can learn new things and help those around me. 
 
 I would love to work in a team that shares my goal of contributing to a world that we are all excited to live in. Makers engrained in me a driven nature, love of learning and sense of fun that I am eager to use to achieve this.
+
+<div align="center">
+
+### ༶•┈┈ [Tech Stack](https://github.com/piperrosearmstrong#tech-stack-%E0%AD%A8%E0%AD%A7) | [Projects](https://github.com/piperrosearmstrong/piperrosearmstrong#projects-) | [Skills](https://github.com/piperrosearmstrong/piperrosearmstrong#skills-) | [Experience](https://github.com/piperrosearmstrong/piperrosearmstrong#experience-) | [Hobbies](https://github.com/piperrosearmstrong/piperrosearmstrong#hobbies-) ┈┈•༶
+
+⋆⋆┈┈┈┈୨♡୧ ┈┈┈┈⋆⋆
+
+༶•┈┈ [GitHub](https://github.com/piperrosearmstrong) | [LinkedIn](https://www.linkedin.com/in/piper-rose-armstrong-a20447265/) | [Codewars](https://www.codewars.com/users/piperrosearmstrong) ┈┈•༶
+
+⋆⋆┈┈┈┈୨♡୧ ┈┈┈┈⋆⋆
+
+༶•┈┈ piperrosearmstrong@gmail.com ┈┈•༶
+  
+</div>
 
 ## TECH STACK ୨୧
 
