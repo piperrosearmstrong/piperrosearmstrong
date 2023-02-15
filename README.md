@@ -12,7 +12,7 @@ I would love to work in a team that shares my goal of contributing to a world th
 
 ⋆⋆┈┈┈┈୨♡୧ ┈┈┈┈⋆⋆
 
-༶•┈┈ [GitHub](https://github.com/piperrosearmstrong) | [LinkedIn](https://www.linkedin.com/in/piper-rose-armstrong-a20447265/) | [Codewars](https://www.codewars.com/users/piperrosearmstrong) ┈┈•༶
+༶•┈┈ [GitHub](https://github.com/piperrosearmstrong) | [LinkedIn](https://www.linkedin.com/in/piper-rose-armstrong-a20447265/) | [Codewars](https://www.codewars.com/users/piperrosearmstrong) | PDF CV ┈┈•༶
 
 ⋆⋆┈┈┈┈୨♡୧ ┈┈┈┈⋆⋆
 
