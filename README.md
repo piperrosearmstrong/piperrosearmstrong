@@ -31,50 +31,53 @@ I would love to work in a team that shares my goal of contributing to a world th
 
 ## SKILLS ♛
 
+Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communication · Emotional Intelligence · Public Speaking · Practical Learning · Empathy · Team-Player · Premiere Pro · Google Docs Editors · Leadership · Problem-Solving · Adaptability · Independent
+
 #### Creative
 
-- Experience
-- Achievements
-- Evidence (STAR)
+During my time as a teaching assistant, supported classes in the Arts department, created presentations for my departmental seniors to deliver in meetings and planned lessons for a variety of subjects. Some of these were lessons where I covered for teachers who were off sick and unable to provide work. I also taught our high-achieving students how to write essays. I made a 40-minute long film about giant lobsters. I created the rat theme of our final project.
 
 #### Communication
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I delivered differentiated lessons to a broad spectrum of pupils with additional needs. Pupils’ parents contacted the school to inform me that their children enjoyed my lessons as I fulfilled their needs. I did group projects at Makers. I work in a team at a busy city-centre pub where our service relies on dynamic communication.
 
 #### Practical Learning
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I started my TA career as a volunteer and learned most of my skills through research and direct application. For my EPQ, I taught myself how to develop stories, sew, direct, co-ordinate a crew, edit and score films with an A* result. I learnt multiple coding languages through applied challenges at Makers. I learnt how to waitress and bar-tend whilst on the job.
 
-#### Team-Player
+#### Problem-Solving
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I liaised with my class team to develop behaviour management strategies for pupils. Whilst at Makers, I used the agile structure to break down my brief into user stories so that I could create a result using methods/techniques that I'd never used before.
 
 ## EXPERIENCE ✥
 
 **Makers Academy** Aug '22 to Dec '22    
-Highly discerning 12 weeks intensive dev bootcamp. 
+Highly discerning, 12-week intensive dev bootcamp.
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object-Oriented Programming
+- Test-Driven Development
+- Agile
+- Debugging
+- Agile Structure
+- Learning Languages
+- Databases
+- Debugging
+- Team-Engineering
 
 **The Belgian Monk** Aug '22 to present    
-Front of House
+Front of House Staff
 
-- Planning and teaching essay-writing lessons
-- x
-- x
-- x
+- Recieving and confirming reservations
+- Directing early arrivals to the bar
+- Ushering diners to their tables and providing them with menus
+- Accepting and informing the relevant staff about food and beverage requests
+- Mixing and pouring beverages
+- Transporting food orders from the kitchen to tables
+- Clearing glassware, silverware, and crockery from tables
+- Providing guests with their bills
+- Taking payment from guests
+- Clearing and reporting breakages by diners
+- Diffusing high-intensity with displeased guests
 
 **All Saints School** Oct '20 to Jul '22    
 Teaching and Literacy Assistant
