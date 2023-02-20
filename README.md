@@ -33,7 +33,7 @@ I would love to work in a team that shares my goal of contributing to a world th
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Rat Race](https://github.com/Ollie-HB/rat-race)**                 | A fun, rat-themed variation of 'Snakes and Ladders'. [Play it here!](https://rat-race-boardgame.netlify.app/) | JavaScript, React, HTML, CSS, SweetAlert2 |
-| **[Bank Tech Test](https://github.com/piperrosearmstrong/bank-tech-test)** | Exercise to practise clean code and TDD. A simple bank program that allows the user to check their balance, withdraw and deposit money. | JavaScript, Node, Jest |
+| **[Bank Tech Test](https://github.com/piperrosearmstrong/bank-tech-test)** | Exercise to practise clean code and TDD. A simple bank program that allows the user to check their balance, withdraw and deposit money. | Ruby, RSpec |
 | **Piper-Rose Armstrong**         | A personal website. | Ruby              |
 | **Garmery**                  | A digital wardrobe. | Ruby              |
 
