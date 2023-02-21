@@ -75,17 +75,8 @@ Highly discerning, 16-week intensive dev bootcamp.
 **The Belgian Monk** Aug '22 to present    
 Front of House Staff
 
-- Receiving and confirming reservations
-- Directing early arrivals to the bar
-- Ushering diners to their tables and providing them with menus
-- Accepting and informing the relevant staff about food and beverage requests
-- Mixing and pouring beverages
-- Transporting food orders from the kitchen to tables
-- Clearing glassware, silverware, and crockery from tables
-- Providing guests with their bills
-- Taking payment from guests
-- Clearing and reporting breakages by diners
-- Diffusing high-intensity with displeased guests
+- Waitressing
+- Bartending
 
 **All Saints School** Oct '20 to Jul '22    
 Teaching and Literacy Assistant
