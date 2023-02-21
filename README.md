@@ -108,5 +108,4 @@ A-Levels
 - **Books** _I read every evening before going to bed. I keep a journal._
 - **Dancing** _Reached X grades in Ballet, Tap, Modern, Jazz and Musical Theatre._
 - **Aesthetic Curation** _I make collages, take lots of photos and collect beautiful things._
-- **Living without Social Media**
 
