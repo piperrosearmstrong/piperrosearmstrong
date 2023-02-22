@@ -36,6 +36,7 @@ I would love to work in a team that shares my goal of contributing to a world th
 | **[Bank Tech Test](https://github.com/piperrosearmstrong/bank-tech-test)** | Exercise to practise clean code and TDD. A simple bank program that allows the user to check their balance, withdraw and deposit money. | Ruby, RSpec |
 | **[Piper-Rose Armstrong](https://github.com/piperrosearmstrong/personal-website)**         | My personal website. | Typescript, Mongo.db, Express.js, React, Node.js |
 | **Garmery**                  | A digital wardrobe. | x              |
+| **Gilded Rose**                  | x | x              |
 
 ## SKILLS ♛
 
