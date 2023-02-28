@@ -46,9 +46,9 @@ Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communicat
 
 For my final project at Makers Academy, my team was tasked with making a non-realtime game. I suggested we make the game rat-themed which was the concept we stuck with. During my time as a teaching assistant, I made wall displays, newsletters and lesson plans for essay-writing lessons that I taught myself. Some of our children found Art classes difficult so I led separate film-making classes with them. I also taught myself how to develop stories, direct, sew, co-ordinate a crew, edit and score films for my EPQ. The final product, a 40-minute short film called ‘The Escapades of the Eternal Damnation Crustacean’, was awarded an A* result.
 
-#### Communication
+#### Strong Communication Skills
 
-I delivered differentiated lessons to a broad spectrum of pupils with additional needs. Pupils’ parents contacted the school to inform me that their children enjoyed my lessons as I fulfilled their needs. I did group projects at Makers. I work in a team at a busy city-centre pub where our service relies on dynamic communication.
+Working with children with complex needs, strong communication was imperative. When both supporting and delivering lessons, it was my responsibility to break a large piece of information down for the children in a way to was both accessible and interesting. On one occasion, one of the children’s parents called the school  to inform the head teacher that her child loved the lessons that I taught. It was very rewarding when I saw this differentiation work in their other lessons. When my students were asked to recall the essay-writing techniques that I’d taught them in one of their main English lessons, they each wrote perfect essays using skills that they didn’t have before and that I had taught them. Communication was also vital at Makers. For our group projects, we used the agile process and Git workflow so making sure all team members were on the same page ensured that our group progressed seamlessly and with momentum.
 
 #### Practical Learning
 
