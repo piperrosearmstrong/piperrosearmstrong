@@ -44,7 +44,7 @@ Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communicat
 
 #### Creative
 
-During my time as a teaching assistant, supported classes in the Arts department, created presentations for my departmental seniors to deliver in meetings and planned lessons for a variety of subjects. Some of these were lessons where I covered for teachers who were off sick and unable to provide work. I also taught our high-achieving students how to write essays. I made a 40-minute long film about giant lobsters. I created the rat theme of our final project.
+For my final project at Makers Academy, my team was tasked with making a non-realtime game. I suggested we make the game rat-themed which was the concept we stuck with. During my time as a teaching assistant, I made wall displays, newsletters and lesson plans for essay-writing lessons that I taught myself. Some of our children found Art classes difficult so I led separate film-making classes with them. I also taught myself how to develop stories, direct, sew, co-ordinate a crew, edit and score films for my EPQ. The final product, a 40-minute short film called ‘The Escapades of the Eternal Damnation Crustacean’, was awarded an A* result.
 
 #### Communication
 
