@@ -54,6 +54,8 @@ Working with children with complex needs, strong communication was imperative. W
 
 When I started at All Saints School, I was a volunteer. I then applied for a part-time job and was offered a full-time position two months later by the Head Teacher. Having a background in humanities and arts, all of the skills I learned as a TA were ones that I picked up through trial and error or from my colleagues. In my last year there, I was given a raise two times and given the additional responsibility of Literacy Assistant. This applies to my work in Hospitality too. Whilst doing the Makers Bootcamp, I supported myself by working nights at a pub. Waitressing and Bartending were also new to me to begin with and have since become tasks that I enjoy doing and am proud of my performance in. At Makers, many of our projects had real-life applications and involved learning new languages whilst fulfilling a brief. For example, we learnt MERN stack whilst building a replica of Facebook. These examples are similiar to a professional software engineering environment and demonstrate my skill in applied learning.
 
+#### Understanding Client Needs
+
 #### Problem-Solving
 
 I liaised with my class team to develop behaviour management strategies for pupils. Whilst at Makers, I used the agile structure to break down my brief into user stories so that I could create a result using methods/techniques that I'd never used before.
