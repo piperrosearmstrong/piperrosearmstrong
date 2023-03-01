@@ -2,7 +2,7 @@
 
 A dynamic, creative and curious **Full Stack Software Engineer** freshly graduated from the Software Development Bootcamp at Makers Academy. 
 
-Before learning to code, and during the pandemic lockdowns, I was a teaching assistant in special needs education. I became attracted to software development as an inventive medium that can be used across various industries including education, fashion and aerospace. Furthermore, I enjoy working in forward-thinking industries where I can learn new things and help those around me. 
+Before learning to code, and during the pandemic lockdowns, I was a teaching assistant in special needs education. I became attracted to software development as an inventive medium that can be used across various industries including education, aerospace, fashion and artificial intelligence. Furthermore, I enjoy working in forward-thinking industries where I can learn new things and help those around me. 
 
 I would love to work in a team that shares my goal of contributing to a world that we are all excited to live in. Makers engrained in me a driven nature, love of learning and sense of fun that I am eager to use to achieve this.
 
