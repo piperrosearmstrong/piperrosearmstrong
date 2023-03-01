@@ -52,7 +52,7 @@ Working with children with complex needs, strong communication was imperative. W
 
 #### Practical Learning
 
-I started my TA career as a volunteer and learned most of my skills through research and direct application. For my EPQ, I taught myself how to develop stories, sew, direct, co-ordinate a crew, edit and score films with an A* result. I learnt multiple coding languages through applied challenges at Makers. I learnt how to waitress and bar-tend whilst on the job.
+When I started at All Saints School, I was a volunteer. I then applied for a part-time job and was offered a full-time position two months later by the Head Teacher. Having a background in humanities and arts, all of the skills I learned as a TA were ones that I picked up through trial and error or from my colleagues. In my last year there, I was given a raise two times and given the additional responsibility of Literacy Assistant. This applies to my work in Hospitality too. Whilst doing the Makers Bootcamp, I supported myself by working nights at a pub. Waitressing and Bartending were also new to me to begin with and have since become tasks that I enjoy doing and am proud of my performance in. At Makers, many of our projects had real-life applications and involved learning new languages whilst fulfilling a brief. For example, we learnt MERN stack whilst building a replica of Facebook. These examples are similiar to a professional software engineering environment and demonstrate my skill in applied learning.
 
 #### Problem-Solving
 
