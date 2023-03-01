@@ -56,9 +56,13 @@ When I started at All Saints School, I was a volunteer. I then applied for a par
 
 #### Understanding Client Needs
 
-#### Problem-Solving
+Client needs have been at the core of all fields that I have experience in. In hospitality, it is my responsibility to accommodate for special requests and dietary requirements. At Makers, it was my responsibility to design a program that met the client’s needs perfectly by breaking down their brief into user stories. All Saints was a complex needs school and, as TA, it was my responsibility to make pupils’ school life more enjoyable and teach them how to do the same thing for themselves. They were very varied so had different needs - some of which were mutually exclusive. Finding ways to make school feel safe for somebody who was always overstimulated and another who is under stimulated was often challenging but incredibly rewarding when achieved. I love working in an environment where I help others. My dedication to improving the lives of others is important to me and is something that I want to bring into my next position.
+
+#### Effective Problem-Solving
 
 I liaised with my class team to develop behaviour management strategies for pupils. Whilst at Makers, I used the agile structure to break down my brief into user stories so that I could create a result using methods/techniques that I'd never used before.
+
+#### Team Leadership & Management
 
 ## EXPERIENCE ✥
 
