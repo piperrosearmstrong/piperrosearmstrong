@@ -64,6 +64,8 @@ The Bootcamp with Makers Academy operated largely around the principle that the 
 
 #### Team Leadership & Management
 
+I enjoy leading. Engaging with a variety of people to actualise a vision is immensely satisfying and consistently stands out to me in retrospect. When I was making my film, I directed the logistical and creative parts of the film. It was my responsibility to co-ordinate the crew and cast whilst conceptualising and actualising the concept/design of the film. It was a very informative experience for me. I am comfortable with public speaking - presenting the screening of the film and also delivering lessons when working at All Saints. This manifested in a few ways: commanding a physical space when covering other teachers’ lessons, devising a syllabus for a subject that I was teaching and had no existent framework and managing my support staff and the behaviour of my students. 
+
 ## EXPERIENCE ✥
 
 **Makers Academy** Aug '22 to Dec '22    
