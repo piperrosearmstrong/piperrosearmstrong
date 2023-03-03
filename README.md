@@ -60,7 +60,7 @@ Client needs have been at the core of all fields that I have experience in. In h
 
 #### Effective Problem-Solving
 
-I liaised with my class team to develop behaviour management strategies for pupils. Whilst at Makers, I used the agile structure to break down my brief into user stories so that I could create a result using methods/techniques that I'd never used before.
+The Bootcamp with Makers Academy operated largely around the principle that the course presented its students with a task involving skills we were yet to learn and in completing this task, we would also teach ourselves the skills and languages we needed. My progression in the course relied on the fact that I had solved the problems and grasped the concepts for each unit before moving on to the next. Our tutors also placed an emphasis on debugging and daily retros to improve teamwork. This taught me analytical thinking and good habits which help me unblock myself when I come across new concepts or seek support when I need it. 
 
 #### Team Leadership & Management
 
