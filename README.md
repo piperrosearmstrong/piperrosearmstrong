@@ -23,6 +23,7 @@ I would love to work in a team that shares my goal of contributing to a world th
 ## TECH STACK ୨୧
 
 - JavaScript (React, Node.js, Express, MongoDB, Jest)
+- TypeScript
 - Ruby (Sinatra, RSpec) 
 - SQL (PostgreSQL, TablePlus)
 - HTML, CSS 
