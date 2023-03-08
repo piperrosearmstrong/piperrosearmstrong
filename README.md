@@ -115,6 +115,6 @@ A-Levels
 - **Sewing/Fashion** _Make my own clothes, collect vintage(sustainability), follow high fashion and engage with the way I dress._
 - **Song-Writing** _Am almost finished writing a 13 song album - aiming to produce it with AI and perform it live this year._
 - **Books** _Read every day and keep a journal._
-- **Dancing** _Reached the following grades in Ballet(6), Tap(6), Modern(5), Jazz(5) and Musical Theatre(2)._
+- **Dancing** _Reached the following grades in Ballet(7), Tap(7), Modern(6), Jazz(5) and Musical Theatre(3)._
 - **Aesthetic Curation** _Make collages, take photos and collect beautiful things._
 
