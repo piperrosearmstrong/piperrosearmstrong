@@ -44,27 +44,27 @@ Attention to Detail · Git/GitHub · Presenting · Creative · TDD · Communicat
 
 #### Creative
 
-For my final project at Makers Academy, my team was tasked with making a non-realtime game. I suggested we make the game theme which was the concept we stuck with. During my time as a teaching assistant, I made lesson plans for essay-writing lessons that I taught myself and helped create the newsletters. I also taught myself how to develop stories, direct, sew, co-ordinate a crew, edit and score films for my Extended Project Qualification(EPQ). The final product, a 40-minute short film called ‘The Escapades of the Eternal Damnation Crustacean’, was awarded an A* result. Some of the children at All Saints found Art classes difficult so I led separate film-making classes with them. Creativity makes coding exciting and enjoyable for me because not only can you make anything you can imagine, the process of developing a program is a sequence of creative decisions. It's much like choosing what kind of camera to film a moving picture on - I can choose what language to code with or how I want my product to look.
+My team made a non-realtime game for my final project at Makers Academy and I suggested the theme that we stuck with. As a teaching assistant, I planned essay-writing lessons that I taught and helped make the newsletters. Some children found Art classes difficult so I led film-making classes with them. I also taught myself how to develop stories, direct, sew and design costumes; co-ordinate a cast and crew; edit and score films for my Extended Project Qualification (EPQ). The final product, a 40-minute film called ‘The Escapades of the Eternal Damnation Crustacean’, was awarded an A* result. I’m an ideas person. Creativity makes coding exciting and enjoyable for me because you can make anything. The process of developing a program is a sequence of creative decisions. It's like choosing what kind of camera to film a moving picture on - I can choose what language to code with or how I want my product to look.
 
 #### Strong Communication Skills
 
-Working with children with complex needs, strong communication was imperative. When supporting and delivering lessons, it was my responsibility to break large pieces of information down for the children in a way to was both accessible and interesting. Some of the children’s parents called the school  to inform the head teacher that their children loved the lessons that I taught. It was rewarding when I saw this adaptive teaching style work in their other lessons. When my students were asked to recall the essay-writing techniques that I’d taught them in one of their main English lessons, they each wrote perfect essays using skills that they didn’t have before, that I had taught them. Communication was also vital at Makers. For our group projects, we used the agile process and Git workflow so making sure all team members were on the same page ensured that our group progressed seamlessly and with momentum.
+Communication was imperative for working with children with complex needs. When supporting and delivering lessons, it was my responsibility to break large pieces of information down for the children in a way which was both accessible and interesting. The children’s parents called the school to inform the head teacher that their children loved the lessons that I taught. It was rewarding when I saw this adaptive teaching style work in the wider curriculum. When my students were asked to recall the essay-writing techniques that I’d taught them in their main English classes, they each wrote perfect essays using skills that they didn’t have before, that I had taught them. Communication was also vital at Makers. For our group projects, we used the agile process and Git workflow to make sure all team members were on the same page and ensure that our group progressed seamlessly, with momentum.
 
 #### Practical Learning
 
-When I started at All Saints School, I was a volunteer. I then applied for a part-time job and was offered a full-time position two months later by the Head Teacher. Having a background in humanities and arts, all of the skills I learned as a TA were ones that I picked up through trial and error or from my colleagues. In my last year there, I was given a raise two times and given the additional responsibility of Literacy Assistant. This applies to my work in Hospitality too. Whilst doing the Makers Bootcamp, I supported myself by working nights at a pub. Waitressing and Bartending were also new to me to begin with and have since become tasks that I enjoy doing and am proud of my performance in. At Makers, many of our projects had real-life applications and involved learning new languages whilst fulfilling a brief. For example, we learnt MERN stack whilst building a replica of Facebook. These examples are similiar to a professional software engineering environment and demonstrate my skill in applied learning.
+I was a volunteer when I started at All Saints School. I was then invited to apply for a part-time job and was offered a full-time position two months later by the Head Teacher. The skills I learned as a TA were ones that I picked up fulfilling my role. In my last year there, I was given a raise two times and the additional responsibility of Literacy Assistant. I supported myself by working nights at a pub whilst doing the Makers Bootcamp. Waitressing and Bartending were also new to me and have since become tasks that I enjoy doing and am proud of my performance in. At Makers, many of our projects had real-life applications and involved learning new languages whilst fulfilling a brief. For example, we learnt the MERN stack whilst building a replica of Facebook. These examples demonstrate my skill in applied learning.
 
 #### Understanding Client Needs
 
-Client needs have been at the core of all fields that I have experience in. In hospitality, it is my responsibility to accommodate for special requests and dietary requirements. At Makers, it was my responsibility to design a program that met the client’s needs perfectly by breaking down their brief into user stories. All Saints was a complex needs school and, as TA, it was my responsibility to make pupils’ school life more enjoyable and teach them how to do the same thing for themselves. They were very varied so had different needs - some of which were mutually exclusive. Finding ways to make school feel safe for somebody who was always overstimulated and another who is under stimulated was often challenging but incredibly rewarding when achieved. I love working in an environment where I help others. My dedication to improving the lives of others is important to me and is something that I want to bring into my next position.
+Client needs have been crucial to all of the fields that I have experience in. I designed programs that met the client’s needs perfectly by breaking them down into user stories at Makers. In my role as TA for complex needs children, it was my responsibility to make pupils’ school life more enjoyable and teach them how to do the same thing for themselves. They were very varied so had different needs - some of which were mutually exclusive. Finding ways to make school feel safe for everyone was often challenging but incredibly rewarding. I love working in an environment where I help others. My dedication to improving the lives of others is important to me and is something I want to bring into my next position.
 
 #### Effective Problem-Solving
 
-The Bootcamp with Makers Academy operated largely around the principle that the course presented its students with a task involving skills we were yet to learn and in completing this task, we would also teach ourselves the skills and languages we needed. My progression in the course relied on the fact that I had solved the problems and grasped the concepts for each unit before moving on to the next. Our tutors also placed an emphasis on debugging and daily retros to improve teamwork. This taught me analytical thinking and good habits which help me unblock myself when I come across new concepts or seek support when I need it. 
+The Bootcamp with Makers Academy operated largely around the principle that students were presented with a task involving skills we were yet to gain and we would teach ourselves the skills and languages we needed as we went. My progression in the course relied on the fact that I had solved the problems and grasped the concepts for each unit before moving on to the next. Our tutors also placed an emphasis on debugging and daily retros to improve teamwork. This taught me analytical thinking and good habits which help me unblock myself when I come across new concepts.
 
 #### Team Leadership & Management
 
-I enjoy leading. Engaging with a variety of people to actualise a vision is immensely satisfying and consistently stands out to me in retrospect. When I was making my film, I directed the logistical and creative parts of the film. It was my responsibility to co-ordinate the crew and cast whilst conceptualising and actualising the concept/design of the film. It was a very informative experience for me. I am comfortable with public speaking - presenting the screening of the film and also delivering lessons when working at All Saints. This manifested in a few ways: commanding a physical space when covering other teachers’ lessons, devising a syllabus for a subject that I was teaching and had no existent framework and managing my support staff and the behaviour of my students. 
+I enjoy leading because engaging with a variety of people to actualise a vision is immensely satisfying for me. When I made my film, I directed the logistical and creative parts. It was my responsibility to coordinate the crew and cast whilst conceptualising and actualising the design of the film. It was a very formative experience. I am comfortable with public speaking - presenting the screening of the film and also delivering lessons when working as a TA. This manifested in a few ways: commanding a physical space when covering other teachers’ lessons, managing my support staff whilst monitoring the behaviour of my students; and devising a new syllabus that had no existent framework.
 
 ## EXPERIENCE ✥
 
@@ -81,7 +81,7 @@ Highly discerning, 16-week intensive dev bootcamp.
 - Debugging
 - Team-Engineering
 
-**The Belgian Monk** Aug '22 to present    
+**The Belgian Monk** _(while studying at Makers)_ Aug '22 to present    
 Front of House Staff
 
 - Waitressing
@@ -102,7 +102,7 @@ Teaching and Literacy Assistant
 - Breaking information down for pupils
 - Helping the Senior Leadership Team with administrative tasks
 
-**Hills Road Sixth Form College** Sep '18 to Jul '20    
+**Hills Road Sixth Form College, Cambridge** Sep '18 to Jul '20    
 A-Levels
 
 - Extended Project Qualification, *A**
@@ -112,9 +112,9 @@ A-Levels
 
 ## HOBBIES ⤠
 
-- **Sewing/Fashion** _I make my own clothes, collect vintage clothes, follow high fashion, consciously engage with the way I dress._
-- **Song-Writing** _I am almost finished writing a 13 song album. I aim to produce it and perform it live this year._
-- **Books** _I read every evening before going to bed. I keep a journal._
-- **Dancing** _Reached X grades in Ballet, Tap, Modern, Jazz and Musical Theatre._
-- **Aesthetic Curation** _I make collages, take lots of photos and collect beautiful things._
+- **Sewing/Fashion** _Make my own clothes, collect vintage(sustainability), follow high fashion and consciously engage with the way I dress._
+- **Song-Writing** _Am almost finished writing a 13 song album - aiming to produce it with AI and perform it live this year._
+- **Books** _Read every day and keep a journal._
+- **Dancing** _Reached the following grades in Ballet(6), Tap(6), Modern(5), Jazz(5) and Musical Theatre(2)._
+- **Aesthetic Curation** _Make collages, take photos and collect beautiful things._
 
